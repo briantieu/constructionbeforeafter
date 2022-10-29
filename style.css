@@ -1,0 +1,62 @@
+* {
+    margin: 0; padding: 0;
+    font-family: sofia-pro;
+
+  }
+
+
+
+.logo a{
+    color: black;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+
+#coverimage {
+    position: relative;
+    background-image: url("https://assets.dailyprincetonian.com/projects.dailyprincetonian.com/flora-fauna-princeton/chestnut+oak+(2).JPG");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 90vh;
+  }
+
+.title {
+    position: absolute;
+    width: 100%;
+    bottom: 7%;
+    left: 0;
+  }
+
+  .title h1 {
+    font-size: 48px;
+    font-weight: 1000;
+    color: white;
+    line-height: 52px;
+    margin-bottom: 20px;
+  }
+
+  .title p {
+    margin-left: 5%;
+    margin-right: 5%;
+    color: white;
+  }
+
+  .transparent-overlay {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0) 60%, rgba(0,0,0,0.7) 80%);
+  }
+
+  h1 {
+    font-size: 24px;
+    font-weight: 1000;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    color: white;
+    }
