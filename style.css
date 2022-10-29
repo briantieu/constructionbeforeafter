@@ -60,3 +60,20 @@
     margin-bottom: 1%;
     color: white;
     }
+  
+    body {
+      background-image: linear-gradient(
+  0deg,
+  hsl(208deg 97% 88%) 0%,
+  hsl(216deg 100% 90%) 10%,
+  hsl(229deg 100% 92%) 20%,
+  hsl(250deg 93% 92%) 30%,
+  hsl(274deg 75% 91%) 40%,
+  hsl(302deg 59% 89%) 50%,
+  hsl(333deg 100% 91%) 60%,
+  hsl(359deg 100% 92%) 70%,
+  hsl(24deg 100% 88%) 80%,
+  hsl(39deg 100% 85%) 90%,
+  hsl(53deg 86% 83%) 100%
+);
+    }
