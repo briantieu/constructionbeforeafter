@@ -15,9 +15,9 @@
 
 #coverimage {
     position: relative;
-    background-image: url("https://assets.dailyprincetonian.com/projects.dailyprincetonian.com/flora-fauna-princeton/chestnut+oak+(2).JPG");
+    background-image: url("https://assets.dailyprincetonian.com/projects.dailyprincetonian.com/construction-before-after/Butler Complex Walk (Before).jpg");
     background-attachment: fixed;
-    background-position: center;
+    background-position: bottom;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 90vh;
@@ -60,7 +60,11 @@
     margin-bottom: 1%;
     color: white;
     }
-  
+
+    p {
+      font-size: 20px;
+    }
+
     body {
       background-image: linear-gradient(
   0deg,
