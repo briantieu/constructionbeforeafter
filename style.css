@@ -81,3 +81,12 @@
   hsl(53deg 86% 83%) 100%
 );
     }
+    .width60 {
+      width: 60%;
+    }
+
+    @media screen and (max-width: 800px) {
+      .width60 {
+        width: 90%;
+      }
+    }
